@@ -1,1 +1,1 @@
-print(rand())
+print(rand(5))
