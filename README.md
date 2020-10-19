@@ -1,3 +1,3 @@
 # Skrypty w Julii!
 
-Please add **PRs** :sushi:
+Please add **PRs** :sushi: :cat:
